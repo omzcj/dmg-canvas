@@ -1,2 +1,2 @@
-# dmg canvas
-dmg canvas
+# x-dmg-canvas
+x-dmg-canvas
